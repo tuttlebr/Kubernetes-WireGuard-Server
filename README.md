@@ -48,7 +48,7 @@ WireGuard settings are input through the Helm Chart's [values.yaml](./wireguard/
 
 ### Helm Installation
 
-Testes with Helm 3.x and Kubernetes 1.22
+Tested with Helm 3.x and Kubernetes 1.22
 
 ```bash
 helm upgrade --install wireguard wireguard/
